@@ -1,0 +1,2 @@
+# NIL
+Native Information License
