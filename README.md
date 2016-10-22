@@ -8,4 +8,14 @@ NIL is incompatible with following licenses:
 - GPLs
 - BSD Licenses
 
-because NIL prohibits to include any copyright notices into granted softwares.
+and compatible with:
+
+- CC0
+
+NIL obligates you:
+
+- to include the permission notice, usually the LICENSE file, and
+- not to include any of copyright notices associated to you
+
+in your software.
+
