@@ -11,6 +11,7 @@ NIL is incompatible with following licenses:
 and compatible with:
 
 - CC0
+- Public Domain
 
 NIL obligates you:
 
