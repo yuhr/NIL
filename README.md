@@ -6,17 +6,17 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 ## TL;DR
 
-NIL is equivalent as (Unlicense OR CC0-1.0) plus conditions that:
+NIL is equivalent as `(Unlicense OR CC0-1.0)` plus conditions that:
 
-- The author(s) MUST acknowledge that there're no copyright holders of the work forever
 - The author(s) MUST NOT include any form of "copyright notice" in the work
-- The author(s) MUST include the licence notification that the work is licensed under NIL by the work itself, not by the author(s) (this is done by bundling LICENSE file with your work)
+- The author(s) MUST include the licence notification that the work is licensed under NIL by the work itself, not by the author(s)
+  - This is done by bundling LICENSE file with the work
 
-## General Information
+## Concept
 
-NIL doesn't allow you to license your work to someone. **_The work_** does it. It licenses the work itself to other beings, including you. This point is the core concept of NIL.
+NIL doesn't allow you to license your work to someone. ***The work*** does it. It licenses the work itself to other beings, including you. This point is the core concept of NIL.
 
-You MUST NOT notice that you are the "copyright holder", but you MAY still notice that you are the "author" or "contributor" simply. NIL just rejects any rights holded by other than the work itself.
+If you apply NIL to your work, you MUST NOT notice that you are the "copyright holder", but you MAY still notice that you are the "author" or "contributor" simply, however, including such notices absolutely SHALL NOT mean that you're treated as the copyright holder, because you apply NIL to your work. NIL just rejects any rights holded by other than the work itself.
 
 So, strictly speaking, "You license it under NIL" is not correct wording, you SHOULD say "You apply NIL to your work" or "The work licenses itself under NIL to everyone" instead. Of course, you MAY use the incorrect wording when you're incorrect or not strict.
 
