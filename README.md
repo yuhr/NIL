@@ -2,27 +2,31 @@
 
 Native Information License is a free license.
 
-In your dataset, NIL obligates you (the licensor):
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 
-- To include the permission notice (select one or more of following).
-  - Usually, bundle the `LICENSE` file.
-  - Otherwise or even so, add either or both of these into every file:
-    - A notice that the file is released under the specific version of NIL.
-    - The entire content of `LICENSE` file.
-- NOT to include any of copyright notices associated with you.
-  - Therefore you MUST agree that the copyright and the exclusive rights assosiated with your dataset must be disclaimed.
+## TL;DR
 
-So you MUST NOT notice that you are the "copyright holder" but MAY notice that you are the "author" or "contributor" simply.
+NIL is equivalent as (Unlicense OR CC0-1.0) plus conditions that:
 
-When you have made some changes to a dataset licensed under NIL, you SHOULD NOT apply any other licenses to the changed parts for leaving them simple. In this case, any of copyright associated with the changed parts shall be disclaimed.
+- The author(s) MUST acknowledge that there're no copyright holders of the work forever
+- The author(s) MUST NOT include any form of "copyright notice" in the work
+- The author(s) MUST include the licence notification that the work is licensed under NIL by the work itself, not by the author(s) (this is done by bundling LICENSE file with your work)
 
-# Compatibility
+## General Information
+
+NIL doesn't allow you to license your work to someone. **_The work_** does it. It licenses the work itself to other beings, including you. This point is the core concept of NIL.
+
+You MUST NOT notice that you are the "copyright holder", but you MAY still notice that you are the "author" or "contributor" simply. NIL just rejects any rights holded by other than the work itself.
+
+So, strictly speaking, "You license it under NIL" is not correct wording, you SHOULD say "You apply NIL to your work" or "The work licenses itself under NIL to everyone" instead. Of course, you MAY use the incorrect wording when you're incorrect or not strict.
+
+## Compatibility
 
 In the sentences below, "include" means "be distributed with".
 
-## When you license your dataset under NIL, ...
+### When you license your dataset under NIL
 
-### The dataset MUST NOT include any bits (e.g. code snippets) of datasets licensed under:
+#### The dataset MUST NOT include any parts (e.g. code snippets) of datasets licensed under
 
 - GPL
 - LGPL
@@ -33,7 +37,7 @@ but MAY
 - Apache License
 - MIT License
 
-### The dataset MUST NOT include any of files or static libraries licensed under:
+#### The dataset MUST NOT include any of files or static libraries licensed under
 
 - GPL
 - LGPL
@@ -44,7 +48,7 @@ but MAY
 - Apache License
 - MIT License
 
-### The dataset MUST NOT be linked to any of datasets (e.g. dynamic libraries) licensed under:
+#### The dataset MUST NOT be linked to any of datasets (e.g. dynamic libraries) licensed under
 
 - GPL
 
@@ -55,17 +59,21 @@ but MAY
 - Apache License
 - MIT License
 
-## To use datasets licensed under NIL
+### To use datasets licensed under NIL in your project
 
-Your dataset MAY be licensed under any license you prefer, unless the license of NIL-licensed dataset can be kept. When you extract some bits (e.g. code snippets) and/or files from it, you MUST notice that those are licensed under NIL. This will not apply where you have made some changes to those.
+The whole of your project MAY be licensed under any license you prefer, as long as a license notice for the NIL-licensed dataset can be kept available to your licensees (see above for compatibility). Even if you extract some parts (e.g. code snippets) and/or files from the NIL-licensed dataset, you MUST notice that those parts are licensed under NIL. This will not apply where you have made some changes to those.
 
-# Multilicensing
+### To change datasets licensed under NIL
 
-If you want to license NIL **AND** some other licenses, you MAY license only with:
+When you have made some changes to a dataset licensed under NIL, you SHOULD NOT apply any other licenses to the changed parts for leaving them simple (still possible though). In this case, any of copyright associated with the changed parts shall be disclaimed.
+
+## Multilicensing
+
+If you want to use NIL **AND** some other licenses, you MAY do it only with:
 
 - CC0
 - Unlicense
 
-because other licenses would require copyright notices. In SPDX syntax, You might specify like `(CC0-1.0 AND SEE LICENSE IN ./LICENSE)` since NIL is not in SPDX License List.
+Because other licenses would require copyright notices. In SPDX syntax, You might specify like `(CC0-1.0 AND SEE LICENSE IN ./LICENSE)` since NIL is not in SPDX License List.
 
 Still free to use OR with any other licenses.
