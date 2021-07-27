@@ -14,7 +14,7 @@ NIL is equivalent as `(Unlicense OR CC0-1.0)` plus conditions that:
 
 ## Concept
 
-NIL doesn't allow you to license your work to someone. ***The work*** does it. It licenses the work itself to other beings, including you. This point is the core concept of NIL.
+NIL doesn't allow you to license your work to someone. ***The work*** does it. Ihe work licenses the work itself to other beings, including you. This point is the core concept of NIL.
 
 If you apply NIL to your work, you MUST NOT notice that you are the "copyright holder", but you MAY still notice that you are the "author" or "contributor" simply, however, including such notices absolutely SHALL NOT mean that you're treated as the copyright holder, because you apply NIL to your work. NIL just rejects any rights holded by other than the work itself.
 
