@@ -61,11 +61,11 @@ But MAY:
 
 ### To use datasets licensed under NIL in your project
 
-The whole of your project MAY be licensed under any license you prefer, as long as a license notice for the NIL-licensed dataset can be kept available to your licensees (see above for compatibility). Even if you extract some parts (e.g. code snippets) and/or files from the NIL-licensed dataset, you MUST notice that those parts are licensed under NIL. This will not apply where you have made some changes to those.
+The whole of your project MAY be licensed under any license you prefer, as long as the NIL-licensed dataset and the license notice for it are both kept available to your licensees. Even if you extract some parts (e.g. code snippets) and/or files from the NIL-licensed dataset, you MUST notice that those parts are licensed under NIL. This will not apply where you have made substantial changes to those.
 
 ### To change datasets licensed under NIL
 
-When you have made some changes to a dataset licensed under NIL, you SHOULD NOT apply any other licenses to the changed parts for leaving them simple (still possible though). In this case, any of copyright associated with the changed parts shall be disclaimed.
+When you have made some changes to a dataset licensed under NIL, you SHOULD NOT apply any other licenses to the changed parts for leaving them simple (still possible though). In this case, any of copyright associated with the changed parts shall be disclaimed as the license remains the same.
 
 ## Multilicensing
 
