@@ -18,7 +18,7 @@ NIL doesn't allow you to license your work to someone. ***The work*** does it. I
 
 If you apply NIL to your work, you MUST NOT notice that you are the "copyright holder", but you MAY still notice that you are the "author" or "contributor" simply. However, including such notices absolutely SHALL NOT mean that you're treated as the copyright holder, because you apply NIL to your work. NIL just rejects any rights holded by other than the work itself.
 
-So, strictly speaking, "You license it under NIL" is not correct wording, you SHOULD say "You apply NIL to your work" or "The work licenses itself under NIL to everyone" instead. Of course, you MAY use the incorrect wording when you're incorrect or not strict.
+Therefore, strictly speaking, "You license it under NIL" is not correct wording, you SHOULD say "You apply NIL to your work" or "The work licenses itself under NIL to everyone" instead. Of course, you MAY use the incorrect wording when you're incorrect or not strict.
 
 ## Compatibility
 
