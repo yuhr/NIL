@@ -24,35 +24,35 @@ Therefore, strictly speaking, "You license your work under NIL" is not correct w
 
 In the sentences below, "include" means "be distributed with".
 
-### When you license your dataset under NIL
+### When you apply NIL to your dataset
 
-#### The dataset MUST NOT include any parts (e.g. code snippets) of datasets licensed under
+The dataset MUST NOT include any parts (e.g. code snippets) of datasets licensed under:
 
 - GPL
 - LGPL
 - MPL
 
-but MAY
+But MAY:
 
 - Apache License
 - MIT License
 
-#### The dataset MUST NOT include any of files or static libraries licensed under
+The dataset MUST NOT include any of files or static-linked libraries licensed under:
 
 - GPL
 - LGPL
 
-but MAY
+But MAY:
 
 - MPL
 - Apache License
 - MIT License
 
-#### The dataset MUST NOT be linked to any of datasets (e.g. dynamic libraries) licensed under
+The dataset MUST NOT linked to any of datasets (e.g. dynamic-linked libraries) licensed under:
 
 - GPL
 
-but MAY
+But MAY:
 
 - LGPL
 - MPL
@@ -74,6 +74,6 @@ If you want to use NIL **AND** some other licenses, you MAY do it only with:
 - CC0
 - Unlicense
 
-Because other licenses would require copyright notices. In SPDX syntax, You might specify like `(CC0-1.0 AND SEE LICENSE IN ./LICENSE)` since NIL is not in SPDX License List.
+Because other licenses would effectively require copyright notices or copyright holders. In SPDX syntax, You might specify like `(CC0-1.0 AND SEE LICENSE IN ./LICENSE)` since NIL is not in SPDX License List.
 
 Still free to use OR with any other licenses.
