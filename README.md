@@ -8,7 +8,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 NIL is equivalent as `(Unlicense OR CC0-1.0)` plus conditions that:
 
-- The author(s) MUST NOT include any form of "copyright notice" in the work
+- The author(s) MUST NOT include any form of "copyright notice" for the work
 - The author(s) MUST include the licence notification that the work is licensed under NIL by the work itself, not by the author(s)
   - This is done by bundling LICENSE file with the work
 
